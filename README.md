@@ -1,7 +1,7 @@
 ### Opa! 👋
 
 - 🌱 Aprendendo Java
-- 👯 Procurando aprimorar meus conhecimentos através de um estágio
+- 👯 Procurando aprimorar meus conhecimentos através de estágio
 - 💬 tenho 31 anos
 - 📫 contato: nelsonsousajr@gmail.com
 <div>

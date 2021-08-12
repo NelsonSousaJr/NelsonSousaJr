@@ -1,6 +1,6 @@
 ### Opa! 👋
 
-- 🌱 Aprendendo Java
+- 🌱 Aprendendo Java e Cursando Sistemas para Internet
 - 👯 Procurando aprimorar meus conhecimentos através de estágio
 - 💬 tenho 31 anos
 - 📫 contato: nelsonsousajr@gmail.com

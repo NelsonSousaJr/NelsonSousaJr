@@ -12,11 +12,12 @@
   <br>
   <br>
  
-  <a href= "https://github.com/NelsonSousaJr"><img height = "150em" src="https://github-readme-stats.vercel.app/api?username=nelsonsousajr&theme=chartreuse-dark&show_icons=true"/>
-  <a href= "https://github.com/NelsonSousaJr"><img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonsousajr&layout=compact&theme=chartreuse-dark"/><br>
-    <a href= "https://github.com/NelsonSousaJr/curso-java"><img height = "150em" src= "https://github-readme-stats.vercel.app/api/pin?username=nelsonsousajr&repo=curso-java&theme=chartreuse-dark&show_owner=true"/><br>
-          <!-- <a href= "https://wakatime.com/@nelsonsousajr"><img height = "150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nelsonsousajr&theme=chartreuse-dark"/>-->
+  <a href= "https://github.com/NelsonSousaJr"><img height = "150em" src="https://github-readme-stats.vercel.app/api?username=nelsonsousajr&theme=vision-friendly-dark&show_icons=true"/>
+  <a href= "https://github.com/NelsonSousaJr"><img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonsousajr&layout=compact&theme=vision-friendly-dark"/><br>
+    <a href= "https://wakatime.com/@nelsonsousajr"><img height = "150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nelsonsousajr&theme=vision-friendly-dark"/>
+    <a href= "https://github.com/NelsonSousaJr/curso-java"><img height = "150em" src= "https://github-readme-stats.vercel.app/api/pin?username=nelsonsousajr&repo=curso-java&theme=vision-friendly-dark&show_owner=true"/><br>
+    
 </div>
-
+      
 
 

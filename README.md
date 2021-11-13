@@ -2,7 +2,7 @@
 
 - 🌱 Aprendendo Java e Cursando Sistemas para Internet
 - 👯 Procurando aprimorar meus conhecimentos através de estágio
-- 💬 tenho 31 anos
+- 💬 tenho 32 anos
 
 <div>
   <a href= "mailto:nelsonsousajr@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
